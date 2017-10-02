@@ -1,0 +1,6 @@
+{ 
+  version: "1.0", 
+  url: "http://s3.thinkaurelius.com/downloads/titan/titan-1.0.0-hadoop1.zip", 
+  "extract_dir: "titan-hadoop1"
+  bin: "bin\\gremlin.bat" 
+}
